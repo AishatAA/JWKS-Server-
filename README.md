@@ -11,4 +11,4 @@ A Python server that provides JSON Web Key Set (JWKS) endpoints for JWT verifica
 ## Usage
 ```bash
 pip install -r requirements.txt
-python jwks_server.py
+python3 jwks_server.py
