@@ -1,0 +1,2 @@
+cryptography>=3.4
+pyjwt>=2.3.0
